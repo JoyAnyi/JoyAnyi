@@ -103,7 +103,7 @@ REBUILD
 UNDERSTAND DEEPLY
 ```
 
-I want to reason from first principles instead of memorizing recipes.
+I want to reason from first principles instead of memorising recipes.
 
 ---
 
@@ -111,7 +111,7 @@ I want to reason from first principles instead of memorizing recipes.
 
 ## `05` — THINGS I'M BUILDING
 
-### ⚡ REAL-TIME SOCIAL INTELLIGENCE ENGINE
+### REAL-TIME SOCIAL INTELLIGENCE ENGINE
 
 ```text
 EVENT STREAM → PROCESSING → ANALYSIS → STORAGE → LIVE INTELLIGENCE
@@ -119,27 +119,27 @@ EVENT STREAM → PROCESSING → ANALYSIS → STORAGE → LIVE INTELLIGENCE
 
 Exploring Kafka, concurrency, idempotency, event-driven architecture and real-time analytics.
 
-### 🧠 NATIONAL EXAMINATION PLATFORM
+### NATIONAL EXAMINATION PLATFORM
 
-Question banks, timed exams, relational modeling, performance analytics and weak-area discovery.
+Question banks, timed exams, relational modelling, and performance analytics.
 
 `Java` · `Spring Boot` · `Hibernate` · `PostgreSQL`
 
-### 🛒 E-COMMERCE SYSTEMS LAB
+### E-COMMERCE SYSTEMS LAB
 
 > What happens when 10,000 users try to buy the last item simultaneously?
 
 Exploring transactions, concurrency, inventory consistency and system design.
 
-### 🧩 COMPUTER SCIENCE SIMULATION
+### COMPUTER SCIENCE SIMULATION
 
 Making algorithms and computer science concepts observable through interactive simulation.
 
-### 🎮 GAME DEVELOPMENT
+### GAME DEVELOPMENT
 
 Exploring physics, rendering, state, simulation and game AI.
 
-### 🤖 EMBEDDED + ROBOTICS
+### EMBEDDED + ROBOTICS
 
 Exploring sensors, microcontrollers, firmware, control systems, computer vision and autonomy.
 
