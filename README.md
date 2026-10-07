@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33B5E5&background=00000000&center=true&vCenter=true&width=700&lines=%3E+sudo+.%2Fdisplay_profile.sh;%3E+COMPILING+SOURCE+CODE...;%3E+STATUS%3A+FIRST+CLASS+HONORS;%3E+SYSTEMS+READY." alt="Terminal Boot Sequence" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33B5E5&background=00000000&center=true&vCenter=true&width=700&lines=%3E+sudo+.%2Fdisplay_profile.sh;%3E+COMPILING+SOURCE+CODE...;%3E+STATUS%3A+FIRST+CLASS+HONOURS;%3E+SYSTEMS+READY." alt="Terminal Boot Sequence" />
 
 <br><br>
 
